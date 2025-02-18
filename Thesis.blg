@@ -1,0 +1,81 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Thesis.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+The style file: abbrvunsrtnat.bst
+Reallocating 'name_of_file' (item size: 1) to 23 items.
+Database file #1: Thesis_Bibliography_DB.bib
+Warning--I didn't find a database entry for "noauthor_daedalus_nodate"
+Warning--empty year in noauthor_spacex_nodate
+Warning--empty year in noauthor_blueorigin_nodate
+Warning--empty journal in quinn_acceptable_nodate
+Warning--empty year in quinn_acceptable_nodate
+Warning--empty year in quinn_acceptable_nodate
+Warning--empty booktitle in shin_nasa_2014
+Warning--empty year in noauthor_wikipedia_nodate
+Warning--empty year in noauthor_apollo_nodate
+Warning--empty journal in steiner_rotary_nodate
+Warning--empty year in steiner_rotary_nodate
+Warning--empty year in steiner_rotary_nodate
+Warning--empty year in noauthor_armada_nodate
+Warning--empty journal in maurer_project_nodate
+Warning--empty year in maurer_project_nodate
+Warning--empty year in maurer_project_nodate
+Warning--empty journal in riegler_daedalus_2018
+Warning--empty journal in riegler_project_nodate
+Warning--empty year in riegler_project_nodate
+Warning--empty year in riegler_project_nodate
+Warning--empty journal in nikolsky_analytical_1906
+Warning--empty journal in sharpe_neuralfoil_nodate
+Warning--empty year in sharpe_neuralfoil_nodate
+Warning--empty year in sharpe_neuralfoil_nodate
+Warning--empty journal in sharpe_aerosandbox_nodate
+Warning--empty year in sharpe_aerosandbox_nodate
+Warning--empty journal in sharpe_accelerating_nodate
+Warning--empty year in sharpe_accelerating_nodate
+Warning--empty year in noauthor_iso_nodate
+Warning--empty year in noauthor_earth_nodate
+Warning--empty year in noauthor_aerospace_nodate
+Warning--empty year in noauthor_atmosisa_nodate
+You've used 41 entries,
+            2481 wiz_defined-function locations,
+            799 strings with 13078 characters,
+and the built_in function-call counts, 14608 in all, are:
+= -- 1187
+> -- 805
+< -- 17
++ -- 335
+- -- 244
+* -- 1205
+:= -- 2318
+add.period$ -- 161
+call.type$ -- 41
+change.case$ -- 80
+chr.to.int$ -- 32
+cite$ -- 82
+duplicate$ -- 734
+empty$ -- 1339
+format.name$ -- 285
+if$ -- 3085
+int.to.chr$ -- 10
+int.to.str$ -- 42
+missing$ -- 32
+newline$ -- 245
+num.names$ -- 93
+pop$ -- 402
+preamble$ -- 1
+purify$ -- 41
+quote$ -- 0
+skip$ -- 414
+stack$ -- 0
+substring$ -- 297
+swap$ -- 112
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 278
+warning$ -- 31
+while$ -- 79
+width$ -- 0
+write$ -- 579
+(There were 32 warnings)
