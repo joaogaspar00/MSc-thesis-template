@@ -1,4 +1,4 @@
-\begin{thebibliography}{41}
+\begin{thebibliography}{43}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -310,5 +310,25 @@ atmosisa, {\natexlab{i}}.
 Atmosphere {Profiles} (sonde, {NRLMSISE}-00), Jan. 2025.
 \newblock URL
   \url{https://www.mathworks.com/matlabcentral/fileexchange/71629-atmosphere-profiles-sonde-nrlmsise-00}.
+
+\bibitem[Arnold et~al.(2011)Arnold, Burgermeister, Führer, Hippmann, and
+  Rill]{arnold_numerical_2011}
+M.~Arnold, B.~Burgermeister, C.~Führer, G.~Hippmann, and G.~Rill.
+\newblock Numerical methods in vehicle system dynamics: state of the art and
+  current developments.
+\newblock \emph{Vehicle System Dynamics}, 49\penalty0 (7):\penalty0 1159--1207,
+  July 2011.
+\newblock ISSN 0042-3114, 1744-5159.
+\newblock \doi{10.1080/00423114.2011.582953}.
+\newblock URL
+  \url{http://www.tandfonline.com/doi/abs/10.1080/00423114.2011.582953}.
+
+\bibitem[Press(2007)]{press_numerical_2007}
+W.~H. Press, editor.
+\newblock \emph{Numerical recipes: the art of scientific computing}.
+\newblock Cambridge University Press, Cambridge, UK ; New York, 3rd ed edition,
+  2007.
+\newblock ISBN 978-0-521-88068-8 978-0-521-88407-5 978-0-521-70685-8.
+\newblock OCLC: ocn123285342.
 
 \end{thebibliography}

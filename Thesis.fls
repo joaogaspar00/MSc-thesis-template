@@ -1,6 +1,6 @@
-PWD c:\Users\Utilizador\OneDrive\Ambiente de Trabalho\LIFE PROJECT\Msc-Thesis-correction
+PWD c:\Users\Utilizador\OneDrive\Ambiente de Trabalho\LIFE PROJECT\Msc-Thesis
 INPUT C:\Users\Utilizador\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\Utilizador\OneDrive\Ambiente de Trabalho\LIFE PROJECT\Msc-Thesis-correction\Thesis.tex
+INPUT c:\Users\Utilizador\OneDrive\Ambiente de Trabalho\LIFE PROJECT\Msc-Thesis\Thesis.tex
 OUTPUT Thesis.log
 INPUT C:\Program Files\MiKTeX\tex\latex\base\report.cls
 INPUT C:\Program Files\MiKTeX\tex\latex\base\report.cls

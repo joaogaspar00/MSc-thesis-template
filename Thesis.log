@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.7)  18 FEB 2025 11:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.7)  18 FEB 2025 11:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/Utilizador/OneDrive/Ambiente de Trabalho/LIFE PROJECT/Msc-Thesis-correction/Thesis.tex"
-(c:/Users/Utilizador/OneDrive/Ambiente de Trabalho/LIFE PROJECT/Msc-Thesis-correction/Thesis.tex
+**"c:/Users/Utilizador/OneDrive/Ambiente de Trabalho/LIFE PROJECT/Msc-Thesis/Thesis.tex"
+(c:/Users/Utilizador/OneDrive/Ambiente de Trabalho/LIFE PROJECT/Msc-Thesis/Thesis.tex
 LaTeX2e <2024-11-01>
 L3 programming layer <2024-10-09>
 (C:\Program Files\MiKTeX\tex/latex/base\report.cls
@@ -607,8 +607,10 @@ File: pppdftex.def 2024/10/28 v0.6c Pdfpages driver for pdfTeX (AM)
 \c@AM@survey=\count348
 \AM@templatesizebox=\box65
 ) (C:\Program Files\MiKTeX\tex/latex/algorithms\algorithm.sty
-Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating environment
- (C:\Program Files\MiKTeX\tex/latex/float\float.sty
+Package: algorith Style `algorithm' - floating enviro
+nment
+
+(C:\Program Files\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count349
 \float@exts=\toks47
@@ -618,9 +620,11 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 )
 \@float@every@algorithm=\toks49
 \c@algorithm=\count350
-) (C:\Program Files\MiKTeX\tex/latex/algorithmicx\algpseudocode.sty
+)
+(C:\Program Files\MiKTeX\tex/latex/algorithmicx\algpseudocode.sty
 Package: algpseudocode 
- (C:\Program Files\MiKTeX\tex/latex/algorithmicx\algorithmicx.sty
+
+(C:\Program Files\MiKTeX\tex/latex/algorithmicx\algorithmicx.sty
 Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
 
 Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
@@ -662,8 +666,10 @@ Package: siunitx 2025-01-17 v3.4.2 A comprehensive (SI) units package
 \l__siunitx_angle_marker_box=\box68
 \l__siunitx_angle_unit_box=\box69
 \l__siunitx_compound_count_int=\count369
- (C:\Program Files\MiKTeX\tex/latex/translations\translations.sty
-Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages (CN)
+
+(C:\Program Files\MiKTeX\tex/latex/translations\translations.sty
+Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
+ (CN)
 )
 \l__siunitx_table_tmp_box=\box70
 \l__siunitx_table_tmp_dim=\dimen268
@@ -678,19 +684,27 @@ Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages 
 \l__siunitx_unit_tmp_int=\count370
 \l__siunitx_unit_position_int=\count371
 \l__siunitx_unit_total_int=\count372
-)) (Thesis_Nomenclature.tex) (Thesis_Glossary.tex)
-LaTeX Font Info:    Trying to load font information for OT1+phv on input line 94.
- (C:\Program Files\MiKTeX\tex/latex/psnfss\ot1phv.fd
+))
+(Thesis_Nomenclature.tex) (Thesis_Glossary.tex)
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 9
+4.
+
+(C:\Program Files\MiKTeX\tex/latex/psnfss\ot1phv.fd
 File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
-) (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+)
+(C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count373
 \l__pdf_internal_box=\box76
 ) (Thesis.aux)
-\openout1 = `Thesis.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
+Runaway argument?
+{to 
+! File ended while scanning use of \@writefile.
+<inserted text> 
+                \par 
+l.94 \begin{document}
+                     
+? nput line 94.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 94.
 LaTeX Font Info:    ... okay on input line 94.
 LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 94.
@@ -892,7 +906,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 [20
 
 ] (Thesis.acr
-Underfull \hbox (badness 10000) in alignment at lines 2--77
+Underfull \hbox (badness 10000) in alignment at lines 2--78
 [] []
  []
 
@@ -1164,17 +1178,17 @@ Package rerunfilecheck Info: File `Thesis.out' has not changed.
 (rerunfilecheck)             Checksum: 0DCA5EC382F071090FFCEA8FE21D886B;5735.
  ) 
 Here is how much of TeX's memory you used:
- 27625 strings out of 473702
- 535788 string characters out of 5729322
- 986409 words of memory out of 5000000
- 50005 multiletter control sequences out of 15000+600000
+ 27633 strings out of 473702
+ 535691 string characters out of 5729322
+ 986517 words of memory out of 5000000
+ 50011 multiletter control sequences out of 15000+600000
  597897 words of font info for 104 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 115i,11n,136p,2488b,1236s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 115i,11n,136p,2477b,1236s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmib10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on Thesis.pdf (56 pages, 4948720 bytes).
+Output written on Thesis.pdf (56 pages, 4950453 bytes).
 PDF statistics:
- 897 PDF objects out of 1000 (max. 8388607)
- 199 named destinations out of 1000 (max. 500000)
+ 902 PDF objects out of 1000 (max. 8388607)
+ 201 named destinations out of 1000 (max. 500000)
  365 words of extra memory for PDF output out of 10000 (max. 10000000)
 
